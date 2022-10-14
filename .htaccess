@@ -1,0 +1,16 @@
+php_value display_errors On
+php_value mbstring.http_input auto
+php_value date.timezone Europe/Kiev
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+RewriteCond %{REQUEST_URI} =/
+RewriteCond %{QUERY_STRING} =false
+RewriteRule .* http://www.vk.com%{REQUEST_URI} [R=301,L]
+AddDefaultCharset utf-8
+php_flag display_errors off
+RewriteRule ^donate/? donat.php [L]
+RewriteRule ^true/? result.php [L]
+RewriteRule ^false/? result.php?type=false [L]
+RewriteRule ^wave/? wave_mutants.php [L]
+RewriteRule ^a_wave/? wave_mutants.php?attack=true [L]

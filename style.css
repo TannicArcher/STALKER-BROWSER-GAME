@@ -1,0 +1,774 @@
+﻿Body {
+	background: #000000 url(http://stalkeronlinegame.epizy.com/style/img/23511.png); background-attachment: fixed; margin: 0 auto; max-width: 500px; font-size: medium; color: #999;
+	}
+
+.blockk
+{
+background:#000000 url(http://stalkeronlinegame.epizy.com/style/img/black.png); color:#8fa3a4;
+}
+
+A {
+color:#8fa3a4;
+}
+a:hover {
+color: red;
+}
+a::selection {
+color: #FF0000;
+background: #0000FF;
+}
+a:active {
+color: royalblue;
+}
+#global {
+	background-color: #131920;
+	border: 1px solid #666;padding: 2px;
+}
+#main {
+    margin-left: 0px;
+}
+
+.ico {
+background-image : url(/img/ico.png);
+background-repeat : no-repeat;
+background-position : left 40%;
+}
+
+.ico2 {
+background-image : url(/img/ico2.png);
+background-repeat : no-repeat;
+background-position : right 40%;
+}
+.footblock {
+font-weight:bold;
+padding:1px;
+background-image: url(/img/bottom.png);
+color: #FFFAFA;
+}
+.blocksite {
+background-color: #131920;
+	border: 1px solid #666;padding: 1px;
+max-width: 400px;
+}
+max-width: 400px;
+.goto {
+    margin-top:13px;
+	padding-bottom:8px;
+	border-bottom: 1px solid #444e4f;
+}
+.white {
+      color:#CCCCCC;
+}
+.default {
+color: #444e4f;
+}
+.menu {
+display: block;
+background:#001100 url(/style/img/blood.png) 100% no-repeat;
+background-size: cover;
+text-decoration: none;
+padding: 6px;
+margin:1px;
+}
+.menu:hover {
+display: block;
+background:#262626 url(http://stalkeronlinegame.epizy.com/arrowhover.png) no-repeat right;
+text-decoration: none;
+color: #ffffff;
+}
+.menu:active {
+display: block;
+background-color:#262626;
+text-decoration: none;
+color: royalblue;
+}
+.menu1 {
+display: block;
+background-color:#000000;
+text-decoration: none;
+}
+.menu1:hover {
+display: block;
+background-color:#474747;
+text-decoration: none;
+color: #ffffff;
+}
+.menu1:active {
+display: block;
+background-color:#474747;
+text-decoration: none;
+color: royalblue;
+}
+.menu2 {
+display: block;
+background:#000000 url(/style/img/line.png);
+text-decoration: none;
+}
+.menu2:hover {
+display: block;
+background:#262626 url(/style/img/line.png);
+text-decoration: none;
+color: #ffffff;
+}
+.menu2:active {
+display: block;
+background:#262626 url(/style/img/line.png);
+text-decoration: none;
+color: royalblue;
+}
+.upl {
+    max-width: 250px;
+    max-height: 300px;
+}
+.admin_msg {
+color:#4169E1;
+}
+.moder_msg {
+color:#008000;
+}
+.clothes {
+    font-size:90%;
+}
+A IMG {
+    border: none; /* Убираем рамку */
+}
+.inimg {
+background-img: url(img/post.png);
+}
+.input {
+    width:140px;
+}
+.input:focus {
+    width:140px;
+background:#FFFFF0;
+}
+.red {
+color: #C51A01;
+}
+.dan {
+color: #B0E0E6;
+}
+.net {
+color: #4682B4;
+}
+.lal {
+font-family: Comic Sans MS;
+}
+.lal2 {
+color: #008000 ;
+font-family: Comic Sans MS;
+}
+.zx {
+border-top: dotted #444e4f 1px;
+padding-bottom: 4px;
+margin-top: 2px;
+padding-left: 2px;
+}
+.comments {
+border-bottom: dotted #444e4f 1px;
+padding-bottom: 4px;
+margin-top: 2px;
+padding-left: 2px;
+color:#CCCCCC;
+}
+input, select, textarea {
+background-color:#cfcfcf;
+color:#000000;
+cursor:pointer;
+border:1px solid #aaaaaa;
+}
+textarea {
+	width: 90%;
+}
+.knopka {
+padding-top: 4px;
+}
+#error {
+    color:#990000;
+	border-bottom: 1px solid #444e4f;
+	padding-bottom: 1px;
+}
+#ok {
+    color:green;
+	border-bottom: 1px solid #444e4f;
+	padding-bottom: 1px;
+}
+.bonus {
+color: #008000 ;
+}
+.regf {
+background: url(/style/img/fon-00.jpg);
+}
+.gold {
+color: #FFD700 ;
+}
+.yellow {
+color: #E3DC0E ;
+}
+.blue {
+color: #4169E1 ;
+}
+#top {
+	
+	}
+	
+.exp_bar {background-color:#1c252f; height:1px; font-size: 0; background: #4b74a7;}
+
+.slot {
+    border-bottom: 1px solid #444e4f;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	
+	}
+p {
+    padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	}
+p::selection {
+color: #FF0000;
+background: #0000FF;
+}
+.podmenu{
+color:#B5B5B5;
+	font-size:14px;
+	font-weight:bold;
+	margin-top: 4px;
+	margin-bottom: 4px;
+background-image : url(http://stalkeronlinegame.epizy.com/style/img/title2.png);
+}
+.podmenu1{
+color:#B5B5B5;
+font-size:14px;
+font-weight:bold;
+margin-top: 4px;
+margin-bottom: 4px;
+background: url(http://stalkeronlinegame.epizy.com/style/img/title1.png) 100% no-repeat;
+background-size: cover;
+}
+#clothes {
+	padding-bottom: 3px;
+	padding-top: 3px;
+	margin-left: 2px;
+	border-bottom: 1px solid #444e4f;
+}
+.stats {
+    padding-bottom: 0px;
+	padding-top: 3px;
+	
+	border-bottom: 1px solid #444e4f;
+	}
+.stats1 {
+padding-bottom: 0px;
+padding-top: 3px;
+background:#2e2e2d;
+border-bottom: 1px solid #444e4f;
+}
+.block {
+    margin-top:13px;
+}
+#foot {
+    margin-top: 10px;
+	margin-left: 2px;
+	font-size:78%;
+}
+.pole1{
+background:#595042;
+}
+.pole2{
+background:#2e2e2d;
+}
+.name{
+background:#595042 url(http://test.sta1kers.ru/style/img/footer.jpg) 100% no-repeat;
+background-size: cover;
+padding:14px;
+color:#2f4f4f;
+font-size: large;
+}
+.name1{
+background:#595042 url(http://stalkeronlinegame.epizy.com/style/img/name8.png) 100% no-repeat;
+background-size: cover;
+padding:8px 10px;
+color:#2f4f4f;
+font-size: large;
+}
+.link{
+background:#2e2e2d url(http://stalkeronlinegame.epizy.com/2.png) repeat-x top;
+margin:1px 0;
+}
+a.link{
+display:block;
+padding:8px 10px;
+text-decoration:none;
+background:url(arrow_next.png) no-repeat right;
+}
+a.link:hover{
+background: url(http://stalkeronlinegame.epizy.com/st.png) no-repeat right;
+}
+.line {
+	display:block;
+	background:#222;
+	background-image: url('/style/img/line1.png');
+	color: #ddd;
+	border-top:1px solid #3E3D36;
+}
+.button3 {
+	margin-right:-10px;
+	margin-left:-10px;
+	background:  url(/img/signupbackground.gif) center no-repeat; 
+	text-align: center;
+	color: #060606;
+	font-weight: bold;
+	padding:8px;
+	padding-right:20px;
+
+}
+
+
+.r2 {
+margin: 2px;
+background: #191919;
+border: 1px solid #3d3d3d;
+padding: 2px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+}
+.r2:hover {
+margin: 2px;
+background: #303030;
+border: 1px solid #3d3d3d;
+padding: 2px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+}
+.r3 {
+margin: 3px;
+background: #303030  url(http://stalkeronlinegame.epizy.com/style/img/bg-ribbon3.png) repeat-x;
+border: 1px solid #3d3d3d;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 5px;
+font-size: 18px;
+}
+.r4 {
+margin: 3px;
+background: #303030  url(/style/img/bg-ribbon.png) repeat-x;
+border: 1px solid #3d3d3d;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 1px;
+font-size: 18px;
+}
+.r5 {
+margin: 0px;
+background: #000000;
+border: 1px solid #3d3d3d;
+padding: 2px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+}
+.r6 {
+margin: 2px;
+background: #191919 url(http://stalkeronlinegame.epizy.com/img/dlfon.gif) repeat;
+border: 1px solid #3d3d3d;
+padding: 2px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table{width:100%;border-collapse:collapse;border-spacing:0;}
+td{vertical-align:top;}
+img{vertical-align:middle;}
+
+/*count panel*/
+.round-panel{height:34px;margin-bottom:2px;background:#515151 url('/images/art/footer_top_block_bg.png') repeat-x;color:#d2d2d2;text-shadow:#2d2d2d -1px -1px 0;}
+.round-panel .wrp1{height:34px;background:url('/images/art/footer_top_block_bg.png') 0 -50px no-repeat;}
+.round-panel .wrp2{height:34px;padding:0 12px;background:url('/images/art/footer_top_block_bg.png') 100% -100px no-repeat;}
+.round-panel table{height:32px;}
+.round-panel table td{vertical-align:middle;}
+.round-panel .count td{width:33%;background:url('/images/art/count_panel_td_bg.png') 0 50% no-repeat;}
+.round-panel .count td.bgn{background:none;}
+
+/*rsv rate block*/
+.rblock{height:21px;}
+.rblock td.progr {padding:6px 0 0;width:100%;}
+.rblock .scale-block{height:9px;background:#1b1c1c url('/images/art/rate_block_scale_bg.png') repeat-x;}
+.rblock .scale-block, .rblock .scale-block div{line-height:0;}
+.rblock .scale-block .scale{height:9px;background:#833004 url('/images/art/rate_block_scale_bg1.png') repeat-x;}
+.rblock.blue .scale-block .scale{background-color:#000000;background-image:url('/images/art/rate_block_scale_bg11.png');}
+.rblock .scale-block .mask{height:9px;margin-top:-9px;position:relative;z-index:2;background:url('/images/art/rate_block_mask_bg1.png') no-repeat;}
+.value-block{display:block;height:21px;background:url('/images/art/rate_block_digits_block_bg2.png') 0 -30px repeat-x;}
+.value-block span{display:block;height:21px;background:url('/images/art/rate_block_digits_block_bg2.png') no-repeat;}
+.value-block span span{padding:4px 7px 0;background-position:100% -60px;text-align:center;color:#d2d2d2;text-shadow:#181818 -1px -1px 0;white-space:nowrap;}
+
+/*rate block*/
+.rate-block{height:15px;padding-top:6px;margin-bottom:7px;overflow:hidden;}
+.rate-block .scale-block{height:9px;background:#1b1c1c url('/images/art/rate_block_scale_bg.png') repeat-x;}
+.rate-block .scale-block, .rate-block .scale-block div{font-size:0;line-height:0;}
+.rate-block .scale-block .scale-next{height:9px;background:#483e35 url('/images/art/rate_block_scale_bg11.png') repeat-x;}
+.rate-block .scale-block .scale{height:9px;position:relative;z-index:1;background:#833004 url('/images/art/rate_block_scale_bg1.png') repeat-x;}
+.rate-block.blue .scale-block .scale{background-color: brown;background-image:url('/images/art/rate_block_scale_blue_bg1.png');}
+
+.rate-block .scale-block .scale .in{height:9px;background:url('/images/art/rate_block_scale_bg2.png') 100% 0 no-repeat;}
+.rate-block.blue .scale-block .scale .in{background-image:url('/images/art/rate_block_scale_blue_bg2.png');}
+.rate-block .scale-block .mask{height:9px;margin-top:-9px;position:relative;z-index:2;background:url('/images/art/rate_block_mask_bg1.png') no-repeat;}
+.rate-block .scale-block .mask .in{height:9px;background:url('/images/art/rate_block_mask_bg2.png') 100% 0 no-repeat;}
+
+/*simple button*/
+.simple-but{height:23px;margin-bottom:7px;display:block;background:#0b9600 url('/images/art/simple_but_bg.png') repeat-x;font-weight:bold;color:#d2d2d2;text-decoration:none;text-shadow:#065400 -1px -1px 0;}
+.simple-but.border{height:31px;background:#0b9600 url('/images/art/simple_but_border_bg.png') repeat-x;text-transform:uppercase;}
+.simple-but.red{background-color:#ce0000;background-position:0 -150px;text-shadow:#760000 -1px -1px 0;}
+.simple-but.border.red{background-position:0 -300px;}
+.simple-but.blue{background-color:#16b1d1;background-position:0 -300px;text-shadow:#0d596e -1px -1px 0;}
+.simple-but.gray{background-color:#4c4c4c;background-position:0 -450px;text-shadow:#2a2a2a -1px -1px 0;}
+.simple-but em{font-style:normal;}
+.simple-but.border.gray{background-position:0 -600px;}
+	.simple-but span{height:23px;overflow:hidden;display:block;background:url('/images/art/simple_but_bg.png') 0 -25px no-repeat;color:#d2d2d2 !important;}
+	.simple-but.border span{height:31px;background:url('/images/art/simple_but_border_bg.png') 0 -50px no-repeat;}
+    .simple-but.red span{background-position:0 -175px;}
+	.simple-but.border.red span{background-position:0 -350px;}
+    .simple-but.blue span{background-position:0 -325px;}
+    .simple-but.gray span{background-position:0 -475px;}
+	.simple-but.border.gray span{background-position:0 -650px;}
+		.simple-but span span{font-size:70%;line-height:1 !important;padding:5px 10px 0;background-position:100% -50px;text-align:center;white-space:nowrap;}
+		.simple-but.border span span{padding:9px 14px 0;background-position:100% -100px;}
+        .simple-but.red span span{background-position:100% -200px;}
+		.simple-but.border.red span span{background-position:100% -400px;}
+        .simple-but.blue span span{background-position:100% -350px;}
+        .simple-but.gray span span{background-position:100% -500px;}
+		.simple-but.border.gray span span{background-position:100% -700px;}
+	.simple-but:hover{background-position:0 -75px;background-color:#0ca900;}
+	.simple-but.border:hover{background-position:0 -150px;}
+	.simple-but.red:hover{background-color:#dc0000;background-position:0 -225px;}
+	.simple-but.border.red:hover{background-position:0 -450px;}
+	.simple-but.blue:hover{background-color:#1ac1da;background-position:0 -375px;}
+	.simple-but.blue:active{background-color:#0e7db2;background-position:0 -600px;}
+	.simple-but.gray:hover{background-color:#5e5e5e;background-position:0 -525px;}
+	.simple-but.border.gray:hover{background-position:0 -750px;}
+		.simple-but:hover span{background-position:0 -100px;}
+		.simple-but.border:hover span{background-position:0 -200px;}
+        .simple-but.red:hover span{background-position:0 -250px;}
+		.simple-but.border.red:hover span{background-position:0 -500px;}
+        .simple-but.blue:hover span{background-position:0 -400px;}
+		.simple-but.blue:active span{background-position:0 -625px;}
+        .simple-but.gray:hover span{background-position:0 -550px;}
+		.simple-but.border.gray:hover span{background-position:0 -800px;}
+			.simple-but:hover span span{background-position:100% -125px;}
+			.simple-but.border:hover span span{background-position:100% -250px;}
+            .simple-but.red:hover span span{background-position:100% -275px;}
+			.simple-but.border.red:hover span span{background-position:100% -550px;}
+            .simple-but.blue:hover span span{background-position:100% -425px;}
+			.simple-but.blue:active span span{background-position:100% -650px;}
+            .simple-but.gray:hover span span{background-position:100% -575px;}
+			.simple-but.border.gray:hover span span{background-position:100% -850px;}
+				
+/* rsv selected blue button */
+.simple-but.blue.selected{background-color:#0e7db2;background-position:0 -600px;}
+.simple-but.blue.selected span{background-position:0 -625px;color:orange !important;}
+.simple-but.blue.selected span span{background-position:100% -650px;}
+
+/*rsv input button*/		
+.input-but{height:23px;margin-bottom:7px;display:block;background:#0b9600 url('/images/art/simple_but_bg.png') repeat-x;}
+.input-but.red{background-color:#ce0000;background-position:0 -150px;}
+.input-but.border{height:31px;background:#0b9600 url('/images/art/simple_but_border_bg.png') repeat-x;line-height:32px;}
+.input-but.border.red{background-position:0 -300px;}
+	.input-but span{height:23px;display:block;overflow-y:hidden;background:url('/images/art/simple_but_bg.png') 0 -25px no-repeat;}
+	.input-but.red span{background-position:0 -175px;}
+	.input-but.border span{height:31px;background:url('/images/art/simple_but_border_bg.png') 0 -50px no-repeat;}
+	.input-but.border.red span{background-position:0 -350px;}
+		.input-but span input{display:block;cursor:pointer;border:0;margin:0;height:23px;padding:0 10px;background:url('/images/art/simple_but_bg.png') 100% -50px no-repeat;color:#d2d2d2;font-weight:bold;text-shadow:#065400 -1px -1px 0;text-align:center;white-space:nowrap;font-size:70%;line-height:1 !important;}
+		.input-but.red span input{background-position:100% -200px;text-shadow:#760000 -1px -1px 0;}
+		.input-but.border span input{height:31px;padding:0 14px;background:url('/images/art/simple_but_border_bg.png') 100% -100px no-repeat;text-transform:uppercase;}
+		.input-but.border.red span input{background-position:100% -400px;}
+	.input-but:hover{background-position:0 -75px;background-color:#0ca900;}
+	.input-but.red:hover{background-color:#dc0000;background-position:0 -225px;}
+	.input-but.border:hover{background-position:0 -150px;}
+	.input-but.border.red:hover{background-position:0 -450px;}
+		.input-but:hover span{background-position:0 -100px;}
+		.input-but.red:hover span{background-position:0 -250px;}
+		.input-but.border:hover span{background-position:0 -200px;}
+		.input-but.border.red:hover span{background-position:0 -500px;}
+			.input-but:hover span input{background-position:100% -125px;}		
+			.input-but.red:hover span input{background-position:100% -275px;}
+			.input-but.border:hover span input{background-position:100% -250px;}
+			.input-but.border.red:hover span input{background-position:100% -550px;}
+
+/*rsv settings block*/
+.btn-chng{min-width:160px;width:44%;margin:7px 0 5px !important;}
+.fld-chng{margin:1px 0 3px;}	
+
+/*rsv user avatar*/			
+.thumb{width:50px;height:50px;position:relative;}
+.thumb img{width:50px;height:50px;position:absolute;top:0;left:0;z-index:1;}
+.thumb .mask1{width:50px;height:50px;position:absolute;top:0;left:0;z-index:2;display:block;background:url('/images/art/unit_data_block_image_mask_bg2.png') no-repeat;}
+.thumb .mask2{width:50px;height:50px;position:absolute;top:0;left:0;z-index:2;display:block;background:url('/images/art/brunches_block_image_mask_bg2.png') no-repeat;}
+.thumb .brd_germany,.thumb .brd_usa,.thumb .brd_ussr{width:50px;height:50px;position:absolute;top:0;left:0;z-index:2;display:block;background:url('/images/modules/frame-germany.png') no-repeat;}
+.thumb .brd_usa{background-image:url('/images/modules/frame-usa.png');}
+.thumb .brd_ussr{background-image:url('/images/modules/frame-ussr.png');}
+
+/*weapon panel*/
+.weapon-panel{height:41px;margin-bottom:3px;background:#2e2e2f url('/images/art/weapon_panel_bg.png') repeat-x;}
+	.weapon-panel .wrp1{height:41px;background:url('/images/art/weapon_panel_bg.png') 0 -50px no-repeat;}
+	.weapon-panel .wrp2{height:41px;background:url('/images/art/weapon_panel_bg.png') 100% -100px no-repeat;}
+	.weapon-panel td{height:32px;padding-top:9px;text-align:center;}
+	.weapon-panel .image{width:24px;height:24px;display:inline-block;*zoom:1;*display:inline;background:#100f11;position:relative;}
+		.weapon-panel .image .in{width:24px;height:24px;position:absolute;z-index:1;top:0;left:0;overflow:hidden;text-align:center;vertical-align:middle;}
+		.weapon-panel .image .in img{width:24px;height:24px;}
+		.weapon-panel .image .mask{width:24px;height:24px;background:url('/images/art/weapon_panel_image_mask.png') no-repeat;position:absolute;z-index:2;top:0;left:0;}
+		.weapon-panel .image .digit{position:absolute;z-index:3;top:18px;left:3px;font:8px/11px Arial;color:#757575;}
+
+/*brunches block*/
+.brunches-block{margin-bottom:1px;}
+	.brunches-block td{text-align:center;}
+	.brunches-block a{width:56px;height:68px;margin:0 auto 5px;display:block;overflow:hidden;font-size:70%;color:#fff;text-shadow:#000 -1px -1px 0;}
+		.brunches-block a .image{margin:0 auto;width:50px;height:50px;display:block;position:relative;}
+			.brunches-block a .image img{width:50px;height:50px;display:block;position:absolute;top:0;left:0;z-index:1;}
+			.brunches-block a .image .mask{width:50px;height:50px;display:block;background:url('/images/art/brunches_block_image_mask_bg2.png') no-repeat;position:absolute;top:0;left:0;z-index:2;}
+	.brunches-block a:hover{color:#D2D2D2;}
+
+/*red digit block*/
+.digit{height:16px;position:absolute;z-index:5;right:2px;top:2px;}
+.digit .l{height:16px;width:3px;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') 0 -20px no-repeat;font-size:0;line-height:0;}
+.digit .m{height:16px;padding:2px 2px 0;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') repeat-x;font-weight:bold;color:white;line-height:1;text-shadow:#6d0000 -1px -1px 0;}
+.digit .r{height:16px;width:3px;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') 0 -40px no-repeat;font-size:0;line-height:0;}
+.digit.tr5{top:5px !important;right:5px !important;}
+
+.digit2{height:16px;position:absolute;z-index:5;right:3px;top:-36px;}
+.digit2 .l{height:16px;width:3px;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') 0 -20px no-repeat;font-size:0;line-height:0;}
+.digit2 .m{height:16px;padding:2px 2px 0;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') repeat-x;font-weight:bold;color:white;line-height:1;text-shadow:#6d0000 -1px -1px 0;}
+.digit2 .r{height:16px;width:3px;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') 0 -40px no-repeat;font-size:0;line-height:0;}
+
+.digit3{height:16px;position:absolute;z-index:5;right:8px;top:-83px;}
+.digit3 .l{height:16px;width:3px;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') 0 -20px no-repeat;font-size:0;line-height:0;}
+.digit3 .m{height:16px;padding:2px 2px 0;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') repeat-x;font-weight:bold;color:white;line-height:1;text-shadow:#6d0000 -1px -1px 0;}
+.digit3 .r{height:16px;width:3px;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') 0 -40px no-repeat;font-size:0;line-height:0;}
+
+.digit4{height:16px;position:absolute;z-index:5;right:3px;top:-28px;}
+.digit4 .l{height:16px;width:3px;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') 0 -20px no-repeat;font-size:0;line-height:0;}
+.digit4 .m{height:16px;padding:2px 2px 0;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') repeat-x;font-weight:bold;color:white;line-height:1;text-shadow:#6d0000 -1px -1px 0;}
+.digit4 .r{height:16px;width:3px;float:left;background:url('/images/art/unit_data_block_image_digit_bg.png') 0 -40px no-repeat;font-size:0;line-height:0;}
+
+/*transparent block*/ /*rsv edit*/
+.trnt-block{margin-bottom:17px;background:#242424 url('/images/art/trnt_block_bg1.png') repeat;}
+.trnt-block .wrap1{background:url('/images/art/trnt_block_bg2.png') repeat-x;}
+.trnt-block .wrap2{background:url('/images/art/trnt_block_bg3.png') 100% 0 repeat-y;}
+.trnt-block .wrap3{background:url('/images/art/trnt_block_bg4.png') 0 100% repeat-x;}
+.trnt-block .wrap4{background:url('/images/art/trnt_block_bg5.png') repeat-y;}
+.trnt-block .wrap5{background:url('/images/art/trnt_block_bg6.png') no-repeat;}
+.trnt-block .wrap6{background:url('/images/art/trnt_block_bg7.png') 100% 0 no-repeat;}
+.trnt-block .wrap7{background:url('/images/art/trnt_block_bg8.png') 100% 100% no-repeat;}
+.trnt-block .wrap8{background:url('/images/art/trnt_block_bg9.png') 0 100% no-repeat;}
+.trnt-block .wrap-content{padding:7px 10px;}
+.trnt-block .wrap-content-mini{padding:2px 2px;}
+.trnt-block .wrap-content .bot{margin-top:-28px;position:relative;top:29px;}
+.trnt-block .wrap-content-mini .bot{margin-top:-23px;position:relative;top:21px;}
+
+/* rsv список игроков (рейтинг, онлайн и тд) */
+.tlist{border-spacing:0}
+.tlist tr{border-bottom:1px solid gray;}
+.tlist tr.odd{background-color:#333333;}
+.tlist tr.my{background-color:#0e7db2;}
+.tlist td.num{vertical-align:middle;text-align:center;border-right:1px solid gray;padding:0 10px;}
+.tlist a{display:block;text-decoration:none;}
+.tlist td.usr a{padding:2px 0 3px 10px;}
+.tlist .light{background:#444;}
+.tlist .dark{background:#111;}
+
+/*rsv paginator*/
+.pgn{text-align:center;}
+.pgn .simple-but{display:inline-block;margin:0 2px 7px;}
+.pgn span.simple-but{background-color:#5e5e5e;background-position:0 -525px;}
+.pgn span.simple-but span{background-position:0 -550px;}
+.pgn span.simple-but span span{background-position:100% -575px;color:#858585 !important;}
+.pgn a.simple-but span span{color:#FFDF8C !important;}
+
+/*rsv player profile*/
+.prf-btns td{width:33%;text-align:center;padding-bottom:7px;}
+.prf-btns img.thumb{width:90%;height:70px;border:1px solid black;border-radius:6px;}
+.prf-btns a:hover img.thumb{border-color:#979492;}
+.prf-btns a:hover{color:#D2D2D2 !important;}
+
+/*rsv chat*/
+.chat-msg-panel td{vertical-align:middle;}
+.chat-msg-panel td.msg{width:100%;}
+.chat-msg-panel td.btn{padding-left:7px;}
+.chat-msg-panel input.chat-msg{width:100%;padding:0;margin:0;border:0;background:#242424 url('/images/art/trnt_block_bg1.png') repeat;outline:none;}
+
+/*forum*/
+.forum{border-top:1px solid #555555;margin-bottom:1px;line-height:1;}
+.odd .forum{background-color:#333333;}
+.sndr{border-top:1px solid #555555;padding:3px;background-color:#333333;font-size:medium;}
+.sndr:hover{background-color:#444444;}
+.ovh{word-wrap:break-word;overflow-x:hidden;}
+
+/*rsv common*/
+.fs0{font-size:0;}
+.upcs{text-transform:uppercase;}
+.small{font-size:small;}
+.esmall{font-size:70%;}
+.td_u{text-decoration:underline;}
+.medium{font-size:medium;}
+.lh1{line-height:1 !important;}
+.bold{font-weight:bold;}
+.va_t{vertical-align:top;}
+.va_m{vertical-align:middle;}
+.va_b{vertical-align:bottom;}
+.ta_l{text-align:left;}
+.ta_r{text-align:right;}
+.ta_c{text-align:center;}
+.cntr{text-align:center;}
+.sh_b{text-shadow:black -1px -1px 0;}
+.nwr{white-space:nowrap;}
+
+.fl{float:left;}
+.fr{float:right;}
+.clrb{clear:both;}
+.blck{display:block;}
+.inbl{display:inline-block;}
+.prel{position:relative;}
+
+.odd-bg{background-color:#333;}
+
+.w50{width:50%;}
+.w33{width:33%;}
+.w80{width:80%;}
+.w90{width:90%;}
+.w98{width:98%;}
+.w100{width:100%;}
+.mw100px{max-width:100px;}
+.w60px{width:60px;}
+
+.p0{padding:0;}
+.p1{padding:1px;}
+.p5{padding:5px;}
+.pr10{padding-right:10px;}
+.pt10{padding-top:10px;}
+.pb10{padding-bottom:10px;}
+.pr1{padding-right:1px;}
+.pr5{padding-right:5px;}
+.pl1{padding-left:1px;}
+.pl5{padding-left:5px;}
+.pl12{padding-left:12px;}
+.pt5{padding-top:5px;}
+.pt2{padding-top:2px;}
+.pb2{padding-bottom:2px;}
+.pb5{padding-bottom:5px;}
+.pl4{padding-left:4px;}
+.pr4{padding-right:4px;}
+.plr4{padding:0 4px;}
+.m0{margin:0;}
+.m3{margin:3px;}
+.m5{margin:5px;}
+.mt5{margin-top:5px;}
+.mt2{margin-top:2px;}
+.mb2{margin-bottom:2px;}
+.mb5{margin-bottom:5px;}
+.mb6{margin-bottom:6px;}
+.mb10{margin-bottom:10px;}
+.mb15{margin-bottom:15px;}
+.mb20{margin-bottom:20px;}
+.mt10{margin-top:10px;}
+.ml5{margin-left:5px;}
+.ml10{margin-left:10px;}
+.ml58{margin-left:58px;}
+.ml44{margin-left:44px;}
+.mt15{margin-top:15px;}
+.mb0{margin-bottom:0px !important;}
+.mb1{margin-bottom:1px !important;}
+.m0a{margin:0 auto;}
+.mXa{margin-left:auto;margin-right:auto;}
+
+.green1{color:#0CBA07 !important;}
+.green2{color:#01aeb9 !important;}
+.white{color:white !important;}
+.cD2{color:#D2D2D2;}
+.gray1{color:#858585;}
+.cyan1{color:#01AEB9;}
+.red1{color:#ed1c24}
+.orange{color:#ff6f37;}
+.blue1{color:#0da2e8;}
+.blue2{color:#00ccff;}
+.yellow1{color:#FFDF8C;}
+.yellow2{color:#FFFF99;}
+.admin{color:#00D0FF !important;}
+.moderator{color:#FF9 !important;}
+.userRole{color:#FF9;}
+
+.leader{color:#FFDF8C !important;}
+.general{color:#0CBA07 !important;}
+.officer{color:#D2D2D2 !important;}
+
+.square{list-style:square;}
+
+.unread {background: #2E445A;}
+
+.hr{border-bottom:1px solid gray}
+.hr2{font-size:0;border-top:1px solid #0b0b0b;border-bottom:1px solid #686868;}
+.dhr{border-bottom:1px dotted gray}
+
+.tank-img{width:100%;max-width:160px;}
+img.rico{width:10px;height:10px;position:relative;top:-2px;}
+img.ico{width:16px;height:16px;}
+img.vb{vertical-align:bottom;}
+img.vm{vertical-align:middle;}
+.img36{width:36px;height:36px;border:1px solid black;border-radius:5px;}
+
+
+.tab4 .simple-but{display:inline-block !important;//display:inline;//zoom:1;}
+.tab4.active .simple-but{display:block !important;}
+.tab4 .simple-but span span b{display:none;}
+.tab4.active .simple-but span span b{display:inline;}
+.tab4.active{width:100%;}
+.tab4{padding:0 3px;}
+
+.ny{background-image:url('/images/bg-elka.png');background-position:50% 0;background-repeat:no-repeat;}
+.h150{height:100px;padding-top:50px;}
+/*****
+* END
+******/
+
+a.td_u{text-decoration:underline;}
+
+
+/*wicket specifics*/
+.feedbackPanelERROR{color: red;}
+.feedbackPanelSUCCESS{color:#0CBA07;}
+/* Component validation. 
+'required' highlights labels of required fields. 
+'error' highlights labels of fields which has failed to validate. 
+*/
+.required {color: #5f5;}
+.error {color: #f55;}
+
+/*buy place block*/
+.buy-place-block{margin-bottom:7px;}
+.buy-place-block .line1{margin-bottom:5px;font:bold 12px/15px Arial;color:#fff;text-align:center;font-weight:bold;}
+.buy-place-block .line1 img{vertical-align:middle;position:relative;top:-2px;}
+.buy-place-block .line2{text-align:center;}
+.buy-place-block .line2 .simple-but, .buy-place-block .line2 .simple-but span{display:inline-block;*zoom:1;*display:inline;*zoom:1;line-height:22px;}
+.buy-place-block .line3{font-size:12px;color:#4f4f4f;font-weight:bold;text-align:center;text-shadow:#000 -1px -1px 0;}
+.buy-place-block .info{}
+
+.image .mask{width:50px;height:50px;display:block;background:url('/img/ramka.png') no-repeat;position:absolute;top:0;left:0;z-index:2;}
